@@ -1,0 +1,7 @@
+npm install -g sass
+
+execute the following command everytime you make changes in scss file 
+  sass assets/styles/main.scss assets/styles/main.css 
+
+if you want it to compile on watch mode 
+  sass assets/styles/main.scss assets/styles/main.css --watch 
